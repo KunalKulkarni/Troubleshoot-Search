@@ -38,8 +38,3 @@ User Input File:
 
 Output File:
 1. output.txt 
-
------------------------------------------------------------------------
-
-Provide list of citations (urls, etc.) from where you have taken code
-(if any).
