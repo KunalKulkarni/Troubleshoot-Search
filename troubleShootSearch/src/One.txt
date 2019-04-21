@@ -1,0 +1,10 @@
+A typical SSD uses what is called NAND-based flash memory.
+This is a non-volatile type of memory. 
+What does non-volatile mean you ask? The simple answer is that you can turn off the disk and it won’t “forget” what was stored on it. 
+This is of course an essential characteristic of any type of permanent memory.
+During the early days of SSD, rumors floated around saying stored data would wear off and be lost after only a few years.
+An SSD does not have a mechanical arm to read and w data, it instead relies on an embedded processor (or “brain”) called a controller to perform a bunch of operations related to reading and writing data.
+The is a very important factor in determining the speed of the SSD. 
+Decisions it makes related to how to store, retrieve, cache and clean up data can determine the overall speed of the drive. 
+We won’t get into the nitty-gritty details for the various tasks it performs such as error correction, read and write caching, encryption, and garbage collection to name a few. 
+Yet, suffice to say, good technology is often what separates an excellent SSD from a good one.

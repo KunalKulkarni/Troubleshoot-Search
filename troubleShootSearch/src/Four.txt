@@ -1,0 +1,6 @@
+Cloud storage is defined as a way to store data on the Internet instead of on-premises arrays. 
+It's purchased as a service and delivered on demand, so you get just-in-time capacity and costs. 
+Cloud storage eliminates buying and managing your own storage infrastructure, increasing agility, providing global scale, and delivering "anywhere, anytime" data.
+Cloud storage vendors build and operate infrastructure that manages capacity, security and durability to make data accessible to applications all around the world. 
+Applications access cloud storage through traditional storage protocols or directly via an API. 
+Many vendors offer complementary services designed to help collect, manage, and analyze data at massive scale.

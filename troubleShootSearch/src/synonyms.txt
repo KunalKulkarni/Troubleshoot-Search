@@ -1,0 +1,8 @@
+portable:compact
+flash:flare
+mechanical:robotic
+error:mistake
+faster:quick
+factor:element
+vendors:merchant
+information:statistics

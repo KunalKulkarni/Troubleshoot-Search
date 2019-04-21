@@ -1,0 +1,6 @@
+Hard Disk Drives, or HDD in techno-parlance, have been around for donkey's years relative to the technology world.
+HDDs were first introduced by IBM in 1956 - yes folks this is nearly 60-year old technology, thank goodness vacuum tubes for TVs didn’t last so long. 
+An HDD uses magnetism to store data on a rotating platter. 
+A read/write head floats above the spinning platter reading and writing data. 
+The faster the platter spins, the faster an HDD can perform. 
+Typical laptop drives today spin at either 5400 RPM (Revolutions per Minute) or 7200RPM, though some server-based platters spin at up to 15,000 RPM.
